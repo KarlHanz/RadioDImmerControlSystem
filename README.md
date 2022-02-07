@@ -1,2 +1,2 @@
-# RadioDImmerControlSystem
+# RadioDimmerControlSystem
 Ventilation Unit Control System
